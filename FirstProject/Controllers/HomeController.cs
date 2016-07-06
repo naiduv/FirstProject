@@ -10,7 +10,7 @@ namespace FirstProject.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to the official SCTD website!";
+            ViewBag.Message = "Welcome to the official SCTD Web Application!";
 
             return View();
         }
